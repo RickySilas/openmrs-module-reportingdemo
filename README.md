@@ -1,1 +1,3 @@
-Creates the necessary data and metadata to demonstrate the reporting module
+# openmrs-module-reportingdemo
+Demonstration and code examples for the reporting module
+
